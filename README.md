@@ -52,14 +52,6 @@
 
 ---
 
-#### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HSH55&show_icons=true&theme=default&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSH55&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <i>「将 VLM 的空间理解转化为可被物理逻辑验证的推理决策」</i>
