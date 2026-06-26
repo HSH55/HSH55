@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Suhang Hu (胡苏杭)
+### Hi there 👋 I'm HSH
 
 🎓 **Ph.D. Student @ Peking University** — Multimodal LLM Visual Reasoning
 🔬 **Research**: Vision-Language Models, Chain-of-Thought Reasoning, Reinforcement Learning (GRPO), Knowledge Injection
