@@ -15,7 +15,7 @@
   *IEEE TGRS, 2026 (First Author, SCI Q1 TOP)* — Training-free expert knowledge injection mechanism for complex scene detection.
 
 - **Correlation Analysis of Coating Protection Based on Phase Angle**
-  *Electrochimica Acta, 2024 (Co-first Author, SCI Q2)* — Accelerated detection workflow via correlation analysis.
+  *Electrochimica Acta, 2024 (Co-first Author, SCI Q1)* — Accelerated detection workflow via correlation analysis.
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=nX8tm2kAAAAJ&hl=zh-CN)
 [![GitHub](https://img.shields.io/badge/HSH55-181717?style=flat&logo=github)](https://github.com/HSH55)
